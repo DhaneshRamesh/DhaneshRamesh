@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on creating an android app called Healthme, and would love to collabrate anyone with it. Fun fact I procrastinate a lot but get the work done at last
+
 
 
 ## 🌐 Socials:
