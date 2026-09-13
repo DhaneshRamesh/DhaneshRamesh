@@ -47,6 +47,59 @@ An Azure-based retrieval-augmented generation system for customer support and kn
 | [FiqueCSV API](https://github.com/DhaneshRamesh/fiquecsv-api) | An event-driven translation and entity-enrichment pipeline for tabular business data | FastAPI, Azure Translator, Azure OpenAI, Managed Identity |
 | [AI Journalist Backend](https://github.com/DhaneshRamesh/ai-journalist-backend) | A media-monitoring backend with ingestion, summarisation, sentiment, risk scoring and journalist matching | FastAPI, PostgreSQL, Azure OpenAI, FAISS |
 
+## Complete project index
+
+The selected work above represents the strongest recruiter-facing examples. The complete portfolio is organized below by maturity and focus so that earlier and supporting work remains discoverable without obscuring the primary projects.
+
+<details>
+<summary><strong>Production and private systems</strong></summary>
+
+| Project | Scope | Primary stack |
+|---|---|---|
+| Finlo AI Frontend | Financial scenario modelling and decision-support interface | React, TypeScript, Vite, Tailwind CSS |
+| Finlo AI Backend | Authentication, persistence, orchestration, rate limiting and model-service integration | FastAPI, PostgreSQL, Redis, SQLAlchemy, Alembic |
+| Finlo AI Model | Income, foreign-exchange and repayment-risk modelling with controlled model lifecycle workflows | Python, Pydantic, machine learning, background queues |
+| AI Skill Recommender | Resume evidence extraction, graph-based rules, semantic inference and recommendation evaluation | FastAPI, PostgreSQL, Cognito, Transformers |
+| FiqueBot Frontend | Enterprise RAG experience with document permissions, citations and Azure identity integration | React, FastAPI, Azure OpenAI, Entra ID, Cosmos DB |
+| [Portfolio Website](https://dhaneshramesh.me) | Custom-built professional portfolio with a responsive editorial design | HTML, CSS, JavaScript, Vite, GitHub Pages |
+| Healtharooo | Reasoning-oriented health application prototype | Product prototyping, applied AI |
+| Microburbs Property Investor Metric | Property-investment scoring and ranking experiments | Python, XGBoost, gradient boosting |
+| Website Vulnerability Scanner | Security-analysis and web-scanning prototype | Python, web security tooling |
+| PhoneBook | Archived systems-programming project | C |
+
+</details>
+
+<details>
+<summary><strong>Additional public AI and data projects</strong></summary>
+
+| Repository | Focus |
+|---|---|
+| [AI Journalist Frontend](https://github.com/DhaneshRamesh/ai-journalist-frontend) | Streamlit interface for media-monitoring workflows |
+| [AI Journalist Monitor](https://github.com/DhaneshRamesh/ai-journalist-monitor) | Earlier end-to-end media monitoring and analysis prototype |
+| [FiqueBot Backend](https://github.com/DhaneshRamesh/fiquebot-backend) | Supporting backend prototype for conversational AI workflows |
+| [Skilliphy AI](https://github.com/DhaneshRamesh/skiiliphy_ai) | Early skill-matching and recommendation experiments |
+| [Abalone Ensemble Learning](https://github.com/DhaneshRamesh/abalone-ensemble-learning) | Ensemble-learning experiments on structured data |
+| [Red Wine EDA](https://github.com/DhaneshRamesh/RedWine_EDA) | Exploratory analysis and modelling of wine-quality data |
+| [Titanic Survival Prediction](https://github.com/DhaneshRamesh/TitanicSurvivalPrediction) | Introductory supervised-classification project |
+| [CryptoPredict](https://github.com/DhaneshRamesh/CryptoPredict) | Cryptocurrency preprocessing, feature engineering and prediction experiments |
+
+</details>
+
+<details>
+<summary><strong>Software, web and foundational projects</strong></summary>
+
+| Repository | Focus |
+|---|---|
+| [Silverseven Wallet](https://github.com/DhaneshRamesh/Silverseven_WalletVer) | Web3 wallet prototype with MetaMask integration |
+| [Umbraxia](https://github.com/DhaneshRamesh/Umbraxia) | Next.js and RainbowKit Web3 application experiment |
+| [Solar Power Management System](https://github.com/DhaneshRamesh/Solar-Power-Management-System) | Energy-management software project |
+| [Live Stock Tracker](https://github.com/DhaneshRamesh/Live-Stock-Tracker) | Early stock-tracking application |
+| [Stock Management System](https://github.com/DhaneshRamesh/Stock-Management-System) | Inventory and stock-management application |
+| [Customer Relationship Management Database](https://github.com/DhaneshRamesh/DBMS-for-Customer-Relationship-Management) | Relational database design project |
+| [Chicken Disease Classification](https://github.com/DhaneshRamesh/Chicken-Disease-Classification-Projects) | Forked learning project for image-classification workflows |
+
+</details>
+
 ## Selected impact
 
 - Built and deployed AI support and data workflows used for high-volume, real-world operations.
